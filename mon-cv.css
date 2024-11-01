@@ -1,0 +1,33 @@
+
+body {
+    color:blue;  /* blue */
+    background-color:white;  /* blanc*/
+    background-image: url(Images/efefe79d7685509930137c88db4cc599.jpg);
+    background-size: cover;  /*  */
+    background-position: center;  /*  */
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}   
+
+
+h1 {
+    color:black; /* noir */
+}   
+
+h2 {
+    color:whitesmoke; /* blanc fume */
+}   
+
+p {
+    color: black; /* noir */
+}   
+
+li  {
+    color: black;   /* noir */
+}  
+
+address {
+    color: white;   /* blanc */
+} 
+
+
